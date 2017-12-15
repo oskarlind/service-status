@@ -1,4 +1,6 @@
 {
-  "statusLabel": "Online",
-  "statusClass": "ok"
+  "status": {
+    "statusLabel": "Online",
+    "statusClass": "ok"
+  }
 }
