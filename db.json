@@ -2,5 +2,13 @@
   "status": {
     "statusLabel": "Online",
     "statusClass": "up"
+  },
+  "up-status": {
+    "statusLabel": "Online",
+    "statusClass": "up"
+  },
+  "down-status": {
+    "statusLabel": "Offline",
+    "statusClass": "down"
   }
 }
