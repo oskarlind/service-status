@@ -1,6 +1,6 @@
 {
   "status": {
-    "statusLabel": "Online",
-    "statusClass": "ok"
+    "statusLabel": "Offline",
+    "statusClass": "down"
   }
 }
